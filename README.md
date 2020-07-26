@@ -3,7 +3,7 @@
 <p align="center">	
 	<a title="Github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>	
 	<a title="LinkedIn" href="https://www.linkedin.com/in/sandeep-dhamale/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>
-	<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img alt="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg?style=social&logo=linkedin""></a>
+	<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img alt="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg?style=flat&logo=stackoverflow""></a>
 	<a title="Facebook" href="https://www.facebook.com/sandeep.dhamale" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook" target="_blank"></a> 
 	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wikimedia-logo-meta.svg?style=social&logo=linkedin""></a>
 <br/>
