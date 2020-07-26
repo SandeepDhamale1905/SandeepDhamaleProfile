@@ -5,9 +5,8 @@
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
 	<a title="github" href="https://github.com/SandeepDhamale19"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub"></a>
 	<a title="facebook" href="https://www.facebook.com/sandeep.dhamale"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook"></a> 
-	<!--<a title="Instagram" href="https://www.instagram.com/venkateshwara_rao/"><img src="https://img.shields.io/badge/Instagram-lightpink?style=flat&logo=Instagram" alt="Instagram"></a>-->
 	<a title="linkedin" href="https://www.linkedin.com/in/sandeep-dhamale/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a title="My personal website"><img width="20" src="https://commons.wikimedia.org/wiki/File:Wikimedia-logo-meta.svg"></a>
+	<a title="My personal website"><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wikimedia-logo-meta.svg"></a>
 <br/>
 </p>
 
