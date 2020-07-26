@@ -17,7 +17,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/?username=SandeepDhamale19&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
 
-<p><center><i><b>Sandeep Dhamale</b> is a diligent self-starter, continuous learner, avid
+<p><center><i><b style="color: green">Sandeep Dhamale</b> is a diligent self-starter, continuous learner, avid
 			 networker and seeking opportunities for growth and development. 
 	</br>Firmly believes in, is that in the midst of all our accomplishments, we
 		 Should always find ways to give back to the society / community. 
