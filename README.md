@@ -6,7 +6,7 @@
 	<!--<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img height="50" width="100" alt="Stack Overflow" src="https://img.shields.io/endpoint?color=white&label=StackOverflow&logo=stackoverflow&logoColor=stackoverflow&style=social&url=https%3A%2F%2Fshields.redsparr0w.com%2Fstackoverflow"></a>-->
 	<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img alt="Stack Overflow" src="https://img.shields.io/endpoint?color=white&label=StackOverflow&logo=stackoverflow&logoColor=stackoverflow&style=social&url=https://shields.redsparr0w.com/2473/monday"></a>
 	<a title="Facebook" href="https://www.facebook.com/sandeep.dhamale" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook" target="_blank"></a> 
-	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img height="20" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wikimedia-logo-meta.svg?style=social&logo=personalwebsite"></a>
+	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img height="20" width="40"  src="https://www.pngkit.com/bigpic/u2q8y3y3q8a9q8w7?style=social&logo=personalwebsite"></a>
 <br/>
 </p>
 
