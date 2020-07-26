@@ -1,5 +1,4 @@
-# Sandeep Dhamale Profile 
-<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="100">
+# Sandeep Dhamale Profile <img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150">
 
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
