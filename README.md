@@ -1,10 +1,10 @@
 # Sandeep Dhamale Profile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150">
 
-<p align="center">
-	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
-	<a title="github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>
-	<a title="facebook" href="https://www.facebook.com/sandeep.dhamale" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook" target="_blank"></a> 
-	<a title="linkedin" href="https://www.linkedin.com/in/sandeep-dhamale/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>
+<p align="center">	
+	<a title="Github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>	
+	<a title="LinkedIn" href="https://www.linkedin.com/in/sandeep-dhamale/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>
+	<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img width="80" alt="WhatsApp logo" src="https://commons.wikimedia.org/wiki/File:Stack_Overflow_icon.svg"></a>
+	<a title="Facebook" href="https://www.facebook.com/sandeep.dhamale" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook" target="_blank"></a> 
 	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wikimedia-logo-meta.svg"></a>
 <br/>
 </p>
