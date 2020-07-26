@@ -7,7 +7,7 @@
 	<a title="facebook" href="https://www.facebook.com/sandeep.dhamale"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook"></a> 
 	<!--<a title="Instagram" href="https://www.instagram.com/venkateshwara_rao/"><img src="https://img.shields.io/badge/Instagram-lightpink?style=flat&logo=Instagram" alt="Instagram"></a>-->
 	<a title="linkedin" href="https://www.linkedin.com/in/sandeep-dhamale/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a title="Telegram Messenger" href="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg"><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a>
+	<a title="My personal website"><img width="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AWikimedia-logo-meta.svg&psig=AOvVaw3pKeablR9sv01lClBF8kj5&ust=1595867478312000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiNk-Wr6-oCFQAAAAAdAAAAABAD"></a>
 <br/>
 </p>
 
