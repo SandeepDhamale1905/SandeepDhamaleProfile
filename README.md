@@ -1,12 +1,6 @@
-# Sandeep Dhamale Profile
-<style type="text/css">
-<!--
-.allcaps {
-font-variant: small-caps;
-text-transform: uppercase;
-}
--->
-</style>
+# Sandeep Dhamale Profile 
+<img src="">
+
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
 	<a title="github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>
@@ -24,7 +18,7 @@ text-transform: uppercase;
 	<img src="https://github-readme-stats.vercel.app/api/?username=SandeepDhamale19&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
 
-<p class="allcaps"><center><i><b>Sandeep Dhamale</b> is a diligent self-starter, continuous learner, avid
+<p><center><i><b>Sandeep Dhamale</b> is a diligent self-starter, continuous learner, avid
 			 networker and seeking opportunities for growth and development. 
 	</br>Firmly believes in, is that in the midst of all our accomplishments, we
 		 Should always find ways to give back to the society / community. 
