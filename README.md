@@ -1,4 +1,4 @@
-# Sandeep Dhamale Profile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150">
+# Sandeep Dhamale Profile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150">
 
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
@@ -17,7 +17,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/?username=SandeepDhamale19&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
 
-<p><center><i><b><h3 style="color: green"> Sandeep Dhamale</h3></b> is a diligent self-starter, continuous learner, avid
+<p><center><i><b><h3> Sandeep Dhamale</h3></b> is a diligent self-starter, continuous learner, avid
 			 networker and seeking opportunities for growth and development. 
 	</br>Firmly believes in, is that in the midst of all our accomplishments, we
 		 Should always find ways to give back to the society / community. 
