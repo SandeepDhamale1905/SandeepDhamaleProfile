@@ -25,4 +25,4 @@
 	</i></center></p>
 
 ## Test Automation Framework
-<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/Framework_1.png" alt="Test Automation Framework" width="750" height="620">
+<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/Framework_1.png" alt="Test Automation Framework" width="500" height="400">
